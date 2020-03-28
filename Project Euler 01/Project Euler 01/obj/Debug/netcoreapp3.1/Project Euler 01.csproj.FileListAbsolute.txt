@@ -1,0 +1,13 @@
+C:\Users\freek\source\repos\Project Euler 01\Project Euler 01\obj\Debug\netcoreapp3.1\Project Euler 01.csprojAssemblyReference.cache
+C:\Users\freek\source\repos\Project Euler 01\Project Euler 01\obj\Debug\netcoreapp3.1\Project Euler 01.csproj.CoreCompileInputs.cache
+C:\Users\freek\source\repos\Project Euler 01\Project Euler 01\obj\Debug\netcoreapp3.1\Project Euler 01.AssemblyInfoInputs.cache
+C:\Users\freek\source\repos\Project Euler 01\Project Euler 01\obj\Debug\netcoreapp3.1\Project Euler 01.AssemblyInfo.cs
+C:\Users\freek\source\repos\Project Euler 01\Project Euler 01\bin\Debug\netcoreapp3.1\Project Euler 01.exe
+C:\Users\freek\source\repos\Project Euler 01\Project Euler 01\bin\Debug\netcoreapp3.1\Project Euler 01.deps.json
+C:\Users\freek\source\repos\Project Euler 01\Project Euler 01\bin\Debug\netcoreapp3.1\Project Euler 01.runtimeconfig.json
+C:\Users\freek\source\repos\Project Euler 01\Project Euler 01\bin\Debug\netcoreapp3.1\Project Euler 01.runtimeconfig.dev.json
+C:\Users\freek\source\repos\Project Euler 01\Project Euler 01\bin\Debug\netcoreapp3.1\Project Euler 01.dll
+C:\Users\freek\source\repos\Project Euler 01\Project Euler 01\bin\Debug\netcoreapp3.1\Project Euler 01.pdb
+C:\Users\freek\source\repos\Project Euler 01\Project Euler 01\obj\Debug\netcoreapp3.1\Project Euler 01.dll
+C:\Users\freek\source\repos\Project Euler 01\Project Euler 01\obj\Debug\netcoreapp3.1\Project Euler 01.pdb
+C:\Users\freek\source\repos\Project Euler 01\Project Euler 01\obj\Debug\netcoreapp3.1\Project Euler 01.genruntimeconfig.cache
